@@ -1,1 +1,2 @@
-# geologist.js
+# Geologist
+Geologist Project
